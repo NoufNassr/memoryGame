@@ -6,9 +6,6 @@ This is a simple game that test users memory, then rate him depending on the num
 ## Challenge
 Try matching card with minmum number of movs.
 
-## How to Play
-Load this link in your browser https://memory-game-fend.herokuapp.com/
-
 ## Instructions
 * Click on a card
 *You can open two card at a time
